@@ -9,10 +9,10 @@ dependencies:
   - matplotlib == 3.5.1
   - pandas == 1.4.1
   - requests == 2.27.1
-  - session_info == 1.0.0
-  - IPython == 8.1.1
-  - jupyter_client == 6.1.12
-  - jupyter_core == 4.9.2
-  - jupyterlab == 3.2.9
-  - notebook == 6.4.8
+  - session_info
+  - IPython
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - notebook
 prefix: C:\Temp\vEnv
