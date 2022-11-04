@@ -1,6 +1,6 @@
 name: C:\Temp\vEnv
 channels:
-  - default
+  - conda-forge
 dependencies:
   - python
   - contextily
@@ -9,10 +9,4 @@ dependencies:
   - matplotlib
   - pandas
   - requests
-  - session_info
-  - IPython
-  - jupyter_client
-  - jupyter_core
-  - jupyterlab
-  - notebook
 prefix: C:\Temp\vEnv
