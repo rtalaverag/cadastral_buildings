@@ -1,13 +1,14 @@
 name: C:\Temp\vEnv
 channels:
-  - defaults
+  defaults
 dependencies:
-  - python=3.7
-  - pandas
-  - geopandas
-  - feedparser
-  - jupyterlab
-  - contextily
-  - descartes
-  - mapclassify
+  python == 3.9.10 
+  contextily == 1.2.0
+  feedparser == 6.0.8
+  geopandas == 0.10.2
+  matplotlib == 3.5.1
+  pandas == 1.4.1
+  requests == 2.27.1
+  session_info == 1.0.0
+  jupyterlab == 3.2.9
 prefix: C:\Temp\vEnv
