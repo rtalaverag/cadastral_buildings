@@ -1,18 +1,18 @@
 name: C:\Temp\vEnv
 channels:
-  defaults
+  - conda-forge
 dependencies:
-  python == 3.9.10 
-  contextily == 1.2.0
-  feedparser == 6.0.8
-  geopandas == 0.10.2
-  matplotlib == 3.5.1
-  pandas == 1.4.1
-  requests == 2.27.1
-  session_info == 1.0.0
-  IPython == 8.1.1
-  jupyter_client == 6.1.12
-  jupyter_core == 4.9.2
-  jupyterlab == 3.2.9
-  notebook == 6.4.8
+  - python == 3.9.10 
+  - contextily == 1.2.0
+  - feedparser == 6.0.8
+  - geopandas == 0.10.2
+  - matplotlib == 3.5.1
+  - pandas == 1.4.1
+  - requests == 2.27.1
+  - session_info == 1.0.0
+  - IPython == 8.1.1
+  - jupyter_client == 6.1.12
+  - jupyter_core == 4.9.2
+  - jupyterlab == 3.2.9
+  - notebook == 6.4.8
 prefix: C:\Temp\vEnv
