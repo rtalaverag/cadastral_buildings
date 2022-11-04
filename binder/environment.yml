@@ -1,14 +1,14 @@
 name: C:\Temp\vEnv
 channels:
-  - conda-forge
+  - default
 dependencies:
-  - python == 3.9.10 
-  - contextily == 1.2.0
-  - feedparser == 6.0.8
+  - python
+  - contextily
+  - feedparser
   - geopandas == 0.10.2
-  - matplotlib == 3.5.1
-  - pandas == 1.4.1
-  - requests == 2.27.1
+  - matplotlib
+  - pandas
+  - requests
   - session_info
   - IPython
   - jupyter_client
